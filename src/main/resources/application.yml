@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: utf-8
+student:
+  name: 啦啦啦
+  age: 111
+spring:
+  http:
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
